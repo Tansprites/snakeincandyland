@@ -102,7 +102,7 @@ backgroundMusic.loop = true;
 
 // Zajištění popup zpráv
 document.getElementById('creator').addEventListener('click', () => {
-    alert('Eliška Legerská');
+    alert('Nikdo');
 });
 
 
